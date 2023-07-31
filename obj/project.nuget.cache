@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V6z7oPKQir6ibMMLB2+BqRcGNVaEBs8AF4qr9TNXJ0NOpxR834DaC7la/8D6MtnMPsSeFWLDVYutZ4/AjuslVg==",
+  "dgSpecHash": "tm5dZAfiU/18O2J0uF3cwQuWd0aCOIfAs/nLSop9Dhs9kHECQ6H4RYMIq28ARdvdel8sQmLkTf0JwA5RQLxhvw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\ADEYEMI-M\\Desktop\\c#codes\\e-commerce\\e-commerce.csproj",
+  "projectFilePath": "C:\\Users\\ADEYEMI-M\\Desktop\\c#codes\\e-commerce\\e-commerce.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADEYEMI-M\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ADEYEMI-M\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.7\\microsoft.entityframeworkcore.6.0.7.nupkg.sha512",

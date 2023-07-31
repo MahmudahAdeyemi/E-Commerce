@@ -5,7 +5,7 @@
       "Humanizer.Core/2.8.26": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Humanizer.dll": {}
+          "lib/netstandard2.0/_._": {}
         },
         "runtime": {
           "lib/netstandard2.0/Humanizer.dll": {}
@@ -57,7 +57,7 @@
           "Microsoft.EntityFrameworkCore.Relational": "6.0.7"
         },
         "compile": {
-          "lib/net6.0/Microsoft.EntityFrameworkCore.Design.dll": {}
+          "lib/net6.0/_._": {}
         },
         "runtime": {
           "lib/net6.0/Microsoft.EntityFrameworkCore.Design.dll": {}
@@ -751,11 +751,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\ADEYEMI-M\\Desktop\\c#codes\\e-commerce\\e-commerce.csproj",
+      "projectUniqueName": "C:\\Users\\ADEYEMI-M\\Desktop\\c#codes\\e-commerce\\e-commerce.csproj",
       "projectName": "e-commerce",
-      "projectPath": "c:\\Users\\ADEYEMI-M\\Desktop\\c#codes\\e-commerce\\e-commerce.csproj",
+      "projectPath": "C:\\Users\\ADEYEMI-M\\Desktop\\c#codes\\e-commerce\\e-commerce.csproj",
       "packagesPath": "C:\\Users\\ADEYEMI-M\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\ADEYEMI-M\\Desktop\\c#codes\\e-commerce\\obj\\",
+      "outputPath": "C:\\Users\\ADEYEMI-M\\Desktop\\c#codes\\e-commerce\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADEYEMI-M\\AppData\\Roaming\\NuGet\\NuGet.Config"
